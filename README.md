@@ -29,5 +29,5 @@ I did a simple pie chart to really identify how things are broken up.
 This heatmap shows us the concentration of trips by gender
 ![trips_by_gender.png](https://github.com/Adam-Warrick/bike_sharing/blob/main/trips_by_gender.png)
 
-#Summary and Result
+# Summary and Result
 It is apparent that, on average, male riders are more frequent riders and the check out time is longer when compared to the other gender id's. My suggestion would be to have a marketing campaign around getting the other two gender id's more involved in riding bikes etc. Another marketing campaign idea would be to convert more customers over to subscribers. As you can see, once a customer is a subscriber they are way more active. 
