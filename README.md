@@ -3,6 +3,8 @@
 # Overview
 The goal of this project is to convince the investor about our bike sharing program. We did this in a few different ways. Show the length of time that bikes are checked out for all riders and genders. Show the number of bike trips for all riders and genders for each hour of each day of the week. Finaly, show the number of bike trips for each type of user and gender for each day of the week. 
 
+[link to dashboard](https://public.tableau.com/app/profile/adam.warrick/viz/NYCBikeSharingReport-Challenge/Dashboard1?publish=yes)
+
 #Result
 
 The image below shows us the checkout time by user. As you can see, most users ride the bikes 10 minutes or less. 
@@ -26,3 +28,6 @@ I did a simple pie chart to really identify how things are broken up.
 
 This heatmap shows us the concentration of trips by gender
 ![trips_by_gender.png](https://github.com/Adam-Warrick/bike_sharing/blob/main/trips_by_gender.png)
+
+#Summary and Result
+It is apparent that, on average, male riders are more frequent riders and the check out time is longer when compared to the other gender id's. My suggestion would be to have a marketing campaign around getting the other two gender id's more involved in riding bikes etc. Another marketing campaign idea would be to convert more customers over to subscribers. As you can see, once a customer is a subscriber they are way more active. 
